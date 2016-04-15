@@ -1,3 +1,5 @@
 http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
 
 https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb
+
+http://neuralnetworksanddeeplearning.com/chap1.html
